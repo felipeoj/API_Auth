@@ -1,0 +1,28 @@
+
+Módulos, Controllers, Services | **Fundamentals** → 
+[Modules](https://docs.nestjs.com/modules), [Controllers](https://docs.nestjs.com/controllers), 
+[Providers (Services)](https://docs.nestjs.com/providers) | 
+https://docs.nestjs.com |
+
+
+Autenticação com JWT | **Security** → [Authentication]
+(https://docs.nestjs.com/security/authentication) | 
+https://docs.nestjs.com/security/authentication |
+
+
+Guards e Passport | 
+**Security** → [Guards]
+https://docs.nestjs.com/guards 
+[Passport]
+https://docs.nestjs.com/techniques/authentication 
+https://docs.nestjs.com/guards |
+
+
+Estratégia JWT com Passport | 
+Dentro da mesma seção acima: [JWT - Passport]
+https://docs.nestjs.com/techniques/authentication#jwt-functionality
+https://docs.nestjs.com/techniques/authentication#jwt-functionality
+
+
+Usando `@UseGuards`, `@Request`, `@Injectable` | 
+[Execution Context & Guards](https://docs.nestjs.com/guards) | https://docs.nestjs.com/guards |
