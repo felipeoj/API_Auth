@@ -77,8 +77,8 @@ Esta API é uma aplicação backend desenvolvida com o framework **NestJS** e **
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/secure-api.git
-   cd secure-api
+   git clone https://github.com/felipeoj/API_Auth.git
+   cd API_Auth
    ```
 
 2. **Instale as dependências:**
