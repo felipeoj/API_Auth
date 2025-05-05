@@ -203,5 +203,5 @@ Este projeto está licenciado sob a licença [MIT](https://opensource.org/licens
 
 ## 👤 Autor
 
-- **Nome:** Seu Nome
+- **Nome:** Felipe Oliveira
 - **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/felipe-oliveira-255628252/)
