@@ -6,6 +6,7 @@
 # ORM
 /prisma/dev.db
 /prisma/*.sqlite
+/generated
 
 # Logs
 logs
